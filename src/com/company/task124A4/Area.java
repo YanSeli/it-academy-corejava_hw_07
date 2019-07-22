@@ -1,13 +1,13 @@
 package com.company.task124A4;
 
 public class Area {
-    private String name;
+    private String area;
 
-    public Area(String name){
-        this.name = name;
+    public Area(String area) {
+        this.area = area;
     }
 
-    public String getName() {
-        return name;
+    public String getArea() {
+        return area;
     }
 }
